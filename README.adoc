@@ -1,6 +1,6 @@
 = REST API Level 0 - Eclipse Vert.x Booster
 
-Change 18
+Change 19
 
 IMPORTANT: This booster requires Java 8 JDK or greater and Maven 3.3.x or greater.
 
